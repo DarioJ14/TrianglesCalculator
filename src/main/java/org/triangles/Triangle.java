@@ -17,6 +17,6 @@ public class Triangle {
     }
 
     public double getArea() {
-        return null;
+        return 0;
     }
 }
