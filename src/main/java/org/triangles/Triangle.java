@@ -25,7 +25,6 @@ public class Triangle {
 
     public double calculateArea() {
         double semiPerimeter = (this.lado1 + this.lado2 + this.lado3) / 2;
-
         return (Math.sqrt(semiPerimeter * (semiPerimeter - this.lado1) * (semiPerimeter - this.lado2) * (semiPerimeter - this.lado3)));
     }
 }
