@@ -1,0 +1,4 @@
+feb 06, 2024 6:57:10 P. M. org.triangles.Triangle logException
+SEVERE: TRIANGULO NO CREADO
+feb 06, 2024 6:58:12 P. M. org.triangles.Triangle logException
+SEVERE: TRIANGULO NO CREADO
